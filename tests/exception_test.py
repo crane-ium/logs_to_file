@@ -1,0 +1,3 @@
+"""
+Tests our exceptions package
+"""
